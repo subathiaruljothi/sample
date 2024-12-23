@@ -1,0 +1,228 @@
+header{
+    background-color: black;
+    font-family: "Old Standard TT", serif;
+}
+header .navbar-nav .nav-item .nav-link{
+    color: #fff;
+    margin: 0px 30px 0px 0px;
+}
+header .navbar-nav .nav-item .nav-link:hover{
+    color: #fff;
+}
+header .d-flex{
+    text-align: end;
+}
+/* banner start */
+.banner{
+    background: url(../images/b1.jpeg);
+    background-repeat: no-repeat;
+    background-position: inherit;
+    background-size: 100% 100%;
+    padding: 50px 0px 50px 0px;
+    margin: 0px 0px 0px 0px;
+    overflow: hidden;
+
+}
+.banner .box h1{
+    font-family: "Merriweather", serif;
+    font-weight: bold;
+    font-size: 60px;
+    color: #ffffff;
+    padding: 72px 0px 0px 7px;
+    margin: 20px 0px 12px 0px;
+}
+.banner .box h2{
+    font-family: "Merriweather", serif;
+    font-weight: bold;
+    font-size: 35px;
+    color: #ffffff;
+    padding: 0px 0px 0px 7px;
+    margin: 0px 0px 55px 0px;
+}
+.banner .box a{
+    text-decoration: none;
+    display: inline-block;
+    padding: 10px 45px;
+    background-color: #171717;
+    color: #fff;
+    border-radius: 5px;
+    margin: 0px 0px 0px 7px;
+}
+.banner .box img{
+    left: 30%;
+    position: relative;
+    margin: 0px 0px 0px 0px;
+
+}
+/* banner end */
+/* back start */
+.back{
+    background-color: aliceblue;
+    padding: 70px 0px 50px 0px;
+    margin: 135px 0px 0px 0px;
+    font-family: "Old Standard TT", serif;
+}
+.back h3{
+    font-size: 30px;
+    font-weight: bold;
+    color: #0c0b0b
+}
+.back h3 span{
+    color: #2fb92a;
+}
+.back P{
+    font-weight: 500;
+}
+/* back end */
+/* front start */
+.front{
+    background-color: aqua;
+    padding: 70px 0px 50px 0px;
+    font-family: "Old Standard TT", serif;
+}
+.front h3{
+    font-size: 30px;
+    font-weight:bolder;
+    color: #0c0b0b
+}
+.front h3 span{
+    color: #dd0f0f;
+}
+.front p{
+    font-weight: 500;
+}
+/* front end */
+/* contact start */
+.contact{
+    padding: 70px 0px 50px 0px;
+}
+.contact h3{
+    text-align: center;
+    font-family: "Old Standard TT", serif;
+    font-weight: bold;
+    font-size: 30px;
+}
+/* contact end */
+/* footer start */
+footer{
+    background-color: #171717;
+    color: #fff;
+    padding: 90px 0 45px 0;
+    overflow: hidden;
+}
+.first{
+    padding: 0px 0px 0px 0px;
+    margin: 0px 0px 0px 0px;
+}
+.first ul{
+    list-style-type: none;
+}
+.first ul li{
+    margin: 0px 0px 20px 0px;
+}
+.first li img{
+    padding: 0px 11px 0px 12px;
+    margin: 0px 0px 21px 0px;
+}
+.first li h4{
+    font-family: "Merriweather", serif;
+    font-weight: bold;
+    padding: 0px 0px 0px 29px;
+    margin: 0px 0px 45px 0px;
+}
+.first li a{
+    text-decoration: none;
+    color: #fff;
+}
+.first li .map{
+    margin: 0px 0px 0px 24px;
+    font-family: "Merriweather", serif;
+    font-weight: 400;
+    font-size: 15px;
+}
+.first li .tel{
+    margin: 0px 0px 0px 24px;
+    font-family: "Merriweather", serif;
+    font-weight: 400;
+    font-size: 15px;
+}
+.first li .mail{
+    margin: 0px 0px 0px 24px;
+    font-family: "Merriweather", serif;
+    font-weight: 400;
+    font-size: 15px;
+}
+.first a i{
+    float: left;
+    margin: 0px 8px 0px 0px;
+}
+.first h6{
+    font-family: "Merriweather", serif;
+    font-weight: 400;
+}
+.second h4{
+    font-family: "Merriweather", serif;
+    font-weight: bold;
+    padding: 0px 0px 0px 0px;
+    margin: 0px 0px 48px 27px;
+}
+.second p{
+    font-family: "Merriweather", serif;
+    font-weight: 400;
+    font-size: 15px;
+    word-spacing: 1px;
+    letter-spacing: 1px;
+    margin: 0px 0px 0px 27px;
+}
+.third h4{
+    font-family: "Merriweather", serif;
+    font-weight: bold;
+    padding: 0px 0px 0px 0px;
+    margin: 0px 0px 48px 30px;
+}
+.third ul{
+    list-style-type: none;
+}
+.third ul li{
+    margin: 0px 0px 7px 0px;
+}
+.third a{
+    text-decoration: none;
+    color: #fff;
+    font-family: "Merriweather", serif;
+    font-weight: 400;
+    font-size: 15px;
+}
+.third a:hover{
+    color: #fff;
+}
+.fourth h4{
+    font-family: "Merriweather", serif;
+    font-weight: bold;
+    padding: 0px 0px 0px 0px;
+    margin: 0px 0px 48px 0px;
+}
+.fourth form input{
+    width: 90%;
+    padding: 10px 20px;
+    border: 2px solid #fff;
+    background-color: transparent;
+    color: #ffffff;
+    margin: 0px 0px 20px 0px;
+}
+.fourth form input:hover{
+    border: 2px solid #fff;
+    background-color: transparent;
+    color: #ffffff;
+}
+.fourth form button{
+    text-transform: uppercase;
+    border: none;
+    margin: 8px 0px 0px 0px;
+    background-color: #ae2162;
+    color: #ffffff;
+    padding: 11px 32px;
+    font-size: large;
+    font-weight: bold;
+}
+/* footer end */
